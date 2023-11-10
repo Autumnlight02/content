@@ -9,6 +9,7 @@ browser-compat: api.CSSRule
 
 The **`CSSRule`** interface represents a single CSS rule. There are several types of rules which inherit properties from `CSSRule`.
 
+- {{DOMXRef("CSSContainerRule")}}
 - {{DOMXRef("CSSGroupingRule")}}
 - {{DOMXRef("CSSStyleRule")}}
 - {{DOMXRef("CSSImportRule")}}
